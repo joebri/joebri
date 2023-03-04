@@ -39,4 +39,4 @@
 
 ## Other
 
-🌱 I’m currently learning GraphQL caching strategies.
+🌱 I’m currently learning React Native.
